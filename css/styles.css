@@ -100,6 +100,8 @@ a:hover {
 .coding-gif {
     width: 25%;
     float: left;
+    position: relative;
+    bottom: 50px;
 }
 
 .compTIA-gifs {
